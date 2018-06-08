@@ -1,0 +1,69 @@
+Library,Problem,Environment,Time,TimeUnit
+Caffe2,"CNN (VGG-style, 32bit) on CIFAR-10 - Image Recognition",K80/CUDA 8/CuDNN 6,148,s
+Chainer,"CNN (VGG-style, 32bit) on CIFAR-10 - Image Recognition",K80/CUDA 8/CuDNN 6,162,s
+CNTK,"CNN (VGG-style, 32bit) on CIFAR-10 - Image Recognition",K80/CUDA 8/CuDNN 6,163,s
+MXNet (Gluon),"CNN (VGG-style, 32bit) on CIFAR-10 - Image Recognition",K80/CUDA 8/CuDNN 6,152,s
+Keras (CNTK),"CNN (VGG-style, 32bit) on CIFAR-10 - Image Recognition",K80/CUDA 8/CuDNN 6,194,s
+Keras (TensorFlow),"CNN (VGG-style, 32bit) on CIFAR-10 - Image Recognition",K80/CUDA 8/CuDNN 6,241,s
+Keras (Theano),"CNN (VGG-style, 32bit) on CIFAR-10 - Image Recognition",K80/CUDA 8/CuDNN 6,269,s
+TensorFlow,"CNN (VGG-style, 32bit) on CIFAR-10 - Image Recognition",K80/CUDA 8/CuDNN 6,173,s
+Lasagne (Theano),"CNN (VGG-style, 32bit) on CIFAR-10 - Image Recognition",K80/CUDA 8/CuDNN 6,253,s
+MXNet,"CNN (VGG-style, 32bit) on CIFAR-10 - Image Recognition",K80/CUDA 8/CuDNN 6,145,s
+PyTorch,"CNN (VGG-style, 32bit) on CIFAR-10 - Image Recognition",K80/CUDA 8/CuDNN 6,169,s
+Julia - Knet,"CNN (VGG-style, 32bit) on CIFAR-10 - Image Recognition",K80/CUDA 8/CuDNN 6,159,s
+R - Keras (TensorFlow),"CNN (VGG-style, 32bit) on CIFAR-10 - Image Recognition",K80/CUDA 8/CuDNN 6,205,s
+Caffe2,"CNN (VGG-style, 32bit) on CIFAR-10 - Image Recognition",P100/CUDA 8/CuDNN 6,54,s
+Chainer,"CNN (VGG-style, 32bit) on CIFAR-10 - Image Recognition",P100/CUDA 8/CuDNN 6,69,s
+CNTK,"CNN (VGG-style, 32bit) on CIFAR-10 - Image Recognition",P100/CUDA 8/CuDNN 6,53,s
+MXNet (Gluon),"CNN (VGG-style, 32bit) on CIFAR-10 - Image Recognition",P100/CUDA 8/CuDNN 6,57,s
+Keras (CNTK),"CNN (VGG-style, 32bit) on CIFAR-10 - Image Recognition",P100/CUDA 8/CuDNN 6,76,s
+Keras (TensorFlow),"CNN (VGG-style, 32bit) on CIFAR-10 - Image Recognition",P100/CUDA 8/CuDNN 6,76,s
+Keras (Theano),"CNN (VGG-style, 32bit) on CIFAR-10 - Image Recognition",P100/CUDA 8/CuDNN 6,93,s
+TensorFlow,"CNN (VGG-style, 32bit) on CIFAR-10 - Image Recognition",P100/CUDA 8/CuDNN 6,57,s
+Lasagne (Theano),"CNN (VGG-style, 32bit) on CIFAR-10 - Image Recognition",P100/CUDA 8/CuDNN 6,65,s
+MXNet,"CNN (VGG-style, 32bit) on CIFAR-10 - Image Recognition",P100/CUDA 8/CuDNN 6,52,s
+PyTorch,"CNN (VGG-style, 32bit) on CIFAR-10 - Image Recognition",P100/CUDA 8/CuDNN 6,51,s
+Julia - Knet,"CNN (VGG-style, 32bit) on CIFAR-10 - Image Recognition",P100/CUDA 8/CuDNN 6,,s
+R - Keras (TensorFlow),"CNN (VGG-style, 32bit) on CIFAR-10 - Image Recognition",P100/CUDA 8/CuDNN 6,72,s
+Caffe2,ResNet-50 - Feature Extraction,K80/CUDA 8/CuDNN 6,14.1,s for 1000 images
+Chainer,ResNet-50 - Feature Extraction,K80/CUDA 8/CuDNN 6,9.3,s for 1000 images
+CNTK,ResNet-50 - Feature Extraction,K80/CUDA 8/CuDNN 6,8.5,s for 1000 images
+MXNet (Gluon),ResNet-50 - Feature Extraction,K80/CUDA 8/CuDNN 6,,s for 1000 images
+Keras (CNTK),ResNet-50 - Feature Extraction,K80/CUDA 8/CuDNN 6,21.7,s for 1000 images
+Keras (TensorFlow),ResNet-50 - Feature Extraction,K80/CUDA 8/CuDNN 6,10.2,s for 1000 images
+TensorFlow,ResNet-50 - Feature Extraction,K80/CUDA 8/CuDNN 6,6.5,s for 1000 images
+MXNet,ResNet-50 - Feature Extraction,K80/CUDA 8/CuDNN 6,7.7,s for 1000 images
+PyTorch,ResNet-50 - Feature Extraction,K80/CUDA 8/CuDNN 6,7.7,s for 1000 images
+Julia - Knet,ResNet-50 - Feature Extraction,K80/CUDA 8/CuDNN 6,6.3,s for 1000 images
+R - MXNet,ResNet-50 - Feature Extraction,K80/CUDA 8/CuDNN 6,,s for 1000 images
+R - Keras (TensorFlow),ResNet-50 - Feature Extraction,K80/CUDA 8/CuDNN 6,17,s for 1000 images
+Caffe2,ResNet-50 - Feature Extraction,P100/CUDA 8/CuDNN 6,7.9,s for 1000 images
+Chainer,ResNet-50 - Feature Extraction,P100/CUDA 8/CuDNN 6,2.7,s for 1000 images
+CNTK,ResNet-50 - Feature Extraction,P100/CUDA 8/CuDNN 6,1.6,s for 1000 images
+MXNet (Gluon),ResNet-50 - Feature Extraction,P100/CUDA 8/CuDNN 6,1.7,s for 1000 images
+Keras (CNTK),ResNet-50 - Feature Extraction,P100/CUDA 8/CuDNN 6,5.9,s for 1000 images
+Keras (TensorFlow),ResNet-50 - Feature Extraction,P100/CUDA 8/CuDNN 6,2.9,s for 1000 images
+TensorFlow,ResNet-50 - Feature Extraction,P100/CUDA 8/CuDNN 6,1.8,s for 1000 images
+MXNet,ResNet-50 - Feature Extraction,P100/CUDA 8/CuDNN 6,1.6,s for 1000 images
+PyTorch,ResNet-50 - Feature Extraction,P100/CUDA 8/CuDNN 6,1.9,s for 1000 images
+Julia - Knet,ResNet-50 - Feature Extraction,P100/CUDA 8/CuDNN 6,,s for 1000 images
+R - MXNet,ResNet-50 - Feature Extraction,P100/CUDA 8/CuDNN 6,,s for 1000 images
+R - Keras (TensorFlow),ResNet-50 - Feature Extraction,P100/CUDA 8/CuDNN 6,7.4,s for 1000 images
+CNTK,RNN (GRU) on IMDB - Sentiment Analysis,K80/CUDA 8/CuDNN 6,32,s
+Keras (CNTK),RNN (GRU) on IMDB - Sentiment Analysis,K80/CUDA 8/CuDNN 6,86,s
+Keras (TensorFlow),RNN (GRU) on IMDB - Sentiment Analysis,K80/CUDA 8/CuDNN 6,35,s
+MXNet,RNN (GRU) on IMDB - Sentiment Analysis,K80/CUDA 8/CuDNN 6,29,s
+PyTorch,RNN (GRU) on IMDB - Sentiment Analysis,K80/CUDA 8/CuDNN 6,31,s
+TensorFlow,RNN (GRU) on IMDB - Sentiment Analysis,K80/CUDA 8/CuDNN 6,30,s
+Julia - Knet,RNN (GRU) on IMDB - Sentiment Analysis,K80/CUDA 8/CuDNN 6,29,s
+R - MXNet,RNN (GRU) on IMDB - Sentiment Analysis,K80/CUDA 8/CuDNN 6,,s
+R - Keras (TensorFlow),RNN (GRU) on IMDB - Sentiment Analysis,K80/CUDA 8/CuDNN 6,35,s
+CNTK,RNN (GRU) on IMDB - Sentiment Analysis,P100/CUDA 8/CuDNN 6,15,s
+Keras (CNTK),RNN (GRU) on IMDB - Sentiment Analysis,P100/CUDA 8/CuDNN 6,53,s
+Keras (TensorFlow),RNN (GRU) on IMDB - Sentiment Analysis,P100/CUDA 8/CuDNN 6,26,s
+MXNet,RNN (GRU) on IMDB - Sentiment Analysis,P100/CUDA 8/CuDNN 6,24,s
+PyTorch,RNN (GRU) on IMDB - Sentiment Analysis,P100/CUDA 8/CuDNN 6,16,s
+TensorFlow,RNN (GRU) on IMDB - Sentiment Analysis,P100/CUDA 8/CuDNN 6,22,s
+Julia - Knet,RNN (GRU) on IMDB - Sentiment Analysis,P100/CUDA 8/CuDNN 6,,s
+R - MXNet,RNN (GRU) on IMDB - Sentiment Analysis,P100/CUDA 8/CuDNN 6,,s
+R - Keras (TensorFlow),RNN (GRU) on IMDB - Sentiment Analysis,P100/CUDA 8/CuDNN 6,25,s
